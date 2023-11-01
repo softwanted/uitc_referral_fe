@@ -5,6 +5,7 @@ function App() {
       <header>
         <p>
           Hello UITC!
+          Deployed on GH
         </p>
       </header>
     </div>
